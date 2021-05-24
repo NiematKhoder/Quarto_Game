@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Quarto_Game" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="guide_text_eng" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">★BOARD
+The board is a 4×4 matrix where all the pieces get placed .
+
+★PIECES
+There are 16 pieces in total , each with 4 details that make them unique . The pieces differ in :
+•Color : beige , brown
+•Shape : circle , square
+•Size : short , tall
+•Fill : hole , no hole
+
+★MOVES
+Each player can choose where to place a piece , but the piece he gets to place is chosen by the opponent .
+At the beginning of the game players can choose who is going to move first .
+    •first player • second player •take turns
+At first the turn will be of the opponent , so he can choose the piece that is going to be placed .
+     Player 1        0   wainting...
+    Player 2        0    choose a piece for player 1
+
+★WINNER
+The winner is the player who is the last to put a piece on the board , and make a line of four pieces that share a common detail .
+Pieces can be in a line that is :
+•horizontal •vertical •diagonal
+</Value>
+    </Setting>
+    <Setting Name="guide_text_french" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">★ PLATEAU
+ Le plateau est une matrice 4 × 4 où toutes les pièces sont placées.
+
+ ★ PIÈCES
+ Il y a 16 pièces au total, chacune avec 4 détails qui les rendent uniques.  Les pièces diffèrent par:
+ • Couleur: beige, marron
+ • Forme: cercle, carre
+ • Taille: courte, grande
+ • Remplir: trou, pas de trou
+
+ ★ DÉPLACE
+ Chaque joueur peut choisir où placer une pièce, mais la pièce à placer est choisie par l'adversaire.
+ Au début du jeu, les joueurs peuvent choisir qui jouera en premier.
+ • premier joueur • deuxième joueur • à tour de rôle
+ Au début, le tour sera de l'adversaire, il peut donc choisir la pièce qui va être placée.
+ Joueur 1 0 wainting ...
+ Joueur 2 0 choisit une pièce pour le joueur 1
+
+ ★ GAGNANT
+ Le gagnant est le joueur qui est le dernier à mettre une pièce sur le plateau et à créer une ligne de quatre pièces partageant un détail commun.
+ Les pièces peuvent être dans une ligne qui est:
+ • horizontal • vertical • diagonal</Value>
+    </Setting>
+    <Setting Name="englishs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="frenchs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="englishbool" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="frenchbool" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
